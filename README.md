@@ -7,5 +7,5 @@ Dimensionality reduction: Kruskal non-metric MDS and weighted graph Laplacian pl
 Clustering: Hierarchical clustering with Manhattan distance metric and median linkage method; K-means clustering with k=2
 Hierarchical clustering with Manhattan distance metric and median linkage method
 
-Course: AS.410.671.82.SU21
+Course: AS.410.671.82.SU21 <br>
 Institute: Johns Hopkins University
